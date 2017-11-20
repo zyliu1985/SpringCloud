@@ -40,5 +40,5 @@ buildNumber.properties
 
 ######## IDEA ########
 *.iml
-.idea
+.idea/
 ######## IDEA End ########
